@@ -81,7 +81,7 @@ else {
 
 		<footer>
 			<div class="container">
-				Copyright @ PHP-kuiz
+				Copyright @ PHP-kuiz through pipeline
 			</div>
 		</footer>
 
